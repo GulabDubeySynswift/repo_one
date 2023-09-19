@@ -7,7 +7,7 @@ use yii\web\JqueryAsset;
 use yii\web\YiiAsset;
 /**
  * Main frontend application asset bundle.
- */
+ */ 
 class AppAsset extends AssetBundle
 {
     public $basePath = '@webroot';
